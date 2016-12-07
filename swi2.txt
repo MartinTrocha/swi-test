@@ -1,0 +1,13 @@
+SWI zadanie 2
+
+7.12.2016 [5b]
+18.12.2016 23.59 AIS [10b]
+
+10 bodov
+	zaznamenavanie zmien - tabulka
+	class diagram
+	akceptacné testy - vzor 5AP
+	projektové planovanie - ms projekt
+	
+5bodov
+	konfiguracný manažment - git
